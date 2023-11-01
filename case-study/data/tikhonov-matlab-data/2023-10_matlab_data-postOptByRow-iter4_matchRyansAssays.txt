@@ -1,0 +1,550 @@
+additional_muts,barcode,class,gene,ploidy,type,biasSusceptibility
+"TIP1-upstream_point_variant; YKR012C-upstream_indel_variant; APM2-upstream_indel_variant; RPL11B-upstream_indel_variant; YIL161W-upstream_indel_variant; YIL169C-frameshift_variant",53,Diploid,Diploid,Diploid,Diploid,-0.382067199527874
+"SEH1-missense_variant; ZIP1-missense_variant; MIM1,tS-upstream_indel_variant; YFL019C,SUF9-upstream_indel_variant",151,PKA,IRA1,Haploid,stop_gained,-0.29026743562929
+"NotSequenced",262,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.164890968815774
+"None",273,PKA,IRA1,Haploid,frameshift_variant,-0.135080788007989
+"NotSequenced",323,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.166437885205243
+"None",415,PKA,IRA1,Haploid,frameshift_variant,0.438135419502719
+"NotSequenced",499,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",622,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.11224885867069
+"RPL19A-upstream_point_variant",689,PKA,IRA1,Haploid,frameshift_variant,-0.359649922137125
+"NotSequenced",697,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.341252812036644
+"NotSequenced",1185,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",1322,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",1379,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.330258232370298
+"NotSequenced",1488,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.730948669603174
+"None",1564,Diploid,Diploid,Diploid,Diploid,0.169950129057755
+"RIF1-upstream_indel_variant",1617,PKA,PDE2,Haploid,frameshift_variant,-1.02435851770156
+"nan-nan",1641,other,other,other,other,0.0983735068486386
+"SDH3-upstream_point_variant; MFM1-missense_variant; YIL169C-frameshift_variant",1683,other,other,other,other,-0.745019129668283
+"None",1866,PKA,PDE2,Haploid,stop_gained,-0.144613953472602
+"None",2037,Diploid,Diploid,Diploid,Diploid,-0.794884502309106
+"ACF2-missense_variant",2039,Adaptive Diploid,Diploid + IRA2,Diploid,frameshift_variant,0.0715835434669607
+"TAF9-upstream_point_variant; SHE3-missense_variant; APE3-synonymous_variant",2288,PKA,GPB2,Haploid,stop_gained,0.176905341321796
+"SEC5-missense_variant",2468,PKA,IRA2,Haploid,missense_variant,0.359527631246634
+"OSH2-missense_variant",2608,PKA,GPB1,Haploid,frameshift_variant,-0.357091942375422
+"DUS1-missense_variant",2768,PKA,GPB2,Haploid,stop_gained,-0.469331896780801
+"SWH1-missense_variant",2776,Diploid,Diploid,Diploid,Diploid,1.25590639374371
+"CDC39-missense_variant",2808,Diploid,Diploid,Diploid,Diploid,-0.698050062209998
+"NotSequenced",3160,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",3250,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.126233014388642
+"NotSequenced",3298,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"DTR1-stop_gained",3379,Diploid,Diploid,Diploid,Diploid,-0.533259282124556
+"YLR157W-D-frameshift_variant",3406,PKA,IRA2,Haploid,missense_variant,0
+"None",3481,PKA,IRA2,Haploid,missense_variant,0.0865487406210443
+"None",3577,Adaptive Diploid,Diploid + IRA2,Diploid,missense_variant,0.22754634847019
+"None",3585,Diploid,Diploid,Diploid,Diploid,-0.369237625268695
+"PHR1-missense_variant; POP1-missense_variant",3675,PKA,IRA1,Haploid,missense_variant,-0.343271612160291
+"NotSequenced",3730,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.47875651198859
+"None",3920,Diploid,Diploid,Diploid,Diploid,0.942928220442591
+"YIL161W-upstream_indel_variant; MAL31-missense_variant",4418,Diploid,Diploid,Diploid,Diploid,-0.0938757702271093
+"YPL205C-frameshift_variant; TPO2-missense_variant; GAD1-upstream_point_variant",4691,Diploid,Diploid,Diploid,Diploid,-0.607126456236293
+"tL(CAA)G3-upstream_point_variant",4791,Diploid,Diploid,Diploid,Diploid,-0.0254560196586728
+"None",4949,PKA,IRA1,Haploid,missense_variant,-0.539607139823281
+"None",5564,Adaptive Diploid,Diploid + IRA2,Diploid,stop_gained,0.31595290801925
+"NotSequenced",5654,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.533485147438297
+"MIA40-upstream_point_variant",5804,PKA,PDE2,Haploid,frameshift_variant,1.4647118553439
+"NotSequenced",6002,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"YMR010W-stop_gained; YGR125W-missense_variant",6174,PKA,IRA1,Haploid,frameshift_variant,-0.15458658067233
+"None",6271,PKA,PDE2,Haploid,stop_gained,0.024932599086834
+"SYH1-synonymous_variant; YDL144C-synonymous_variant",6391,Adaptive Diploid,Diploid + Chr11Amp,Diploid,Diploid + Chr11Amp,0.428484686707431
+"None",6582,PKA,IRA2,Haploid,missense_variant,0.383455665223939
+"NotSequenced",6672,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",6814,Diploid,Diploid,Diploid,Diploid,-0.503820759164404
+"NotSequenced",7269,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.190791692723898
+"IMP4-missense_variant; YER156C,COG3-upstream_indel_variant",7291,other,other,other,other,-0.423585835390313
+"HEL1-missense_variant; MSS116-synonymous_variant",7375,Diploid,Diploid,Diploid,Diploid,-0.162721055111908
+"None",7423,Diploid,Diploid,Diploid,Diploid,0.0329529212032051
+"SEC31-synonymous_variant; ERG1-missense_variant; THI3-stop_gained",7538,other,other,other,other,1.88797370216337
+"BEM2-missense_variant; YNR071C-missense_variant",7539,Diploid,Diploid,Diploid,Diploid,-0.287022428996978
+"NotSequenced",7619,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",7774,PKA,GPB2,Haploid,stop_gained,-0.966888120188448
+"TDH3-missense_variant; YLR257W-upstream_point_variant; HHT2-synonymous_variant",7799,PKA,GPB2,Haploid,missense_variant,0.891131082682936
+"ABP1-missense_variant",7836,PKA,IRA1,Haploid,stop_gained,-0.128309251114755
+"nan-nan",7953,other,other,other,other,-0.827142451078774
+"GRR1-synonymous_variant",7961,PKA,IRA1,Haploid,missense_variant,-0.257749902241317
+"MYO5-missense_variant",7994,PKA,PDE2,Haploid,missense_variant,-0.544473269030787
+"NotSequenced",8009,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",8297,PKA,CYR1,Haploid,missense_variant,0.342297414272653
+"SHC1-missense_variant; MRPL4-synonymous_variant",8459,Diploid,Diploid,Diploid,Diploid,-0.654255869865039
+"ATG32-upstream_indel_variant",8825,other,other,other,other,0.237784282303121
+"ACC1-synonymous_variant",9293,Diploid,Diploid,Diploid,Diploid,0.283479313153554
+"NotSequenced",9518,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.64186557695879
+"HDA1-missense_variant",9589,Diploid,Diploid,Diploid,Diploid,-0.199256142862752
+"PSE1-missense_variant",9689,Diploid,Diploid,Diploid,Diploid,-0.131828213375136
+"HEL1-missense_variant",9864,PKA,IRA1,Haploid,stop_gained,-0.123489693027886
+"None",9888,PKA,GPB2,Haploid,frameshift_variant,-0.0582900641407957
+"MET10-upstream_point_variant",10050,Diploid,Diploid,Diploid,Diploid,0.121257849246339
+"PKH1-missense_variant",10103,Adaptive Diploid,Diploid + IRA1,Diploid,missense_variant,0.218919910097908
+"nan-nan",10307,other,other,other,other,-0.575054115589073
+"None",10316,Diploid,Diploid,Diploid,Diploid,-0.526314606507854
+"NotSequenced",10623,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.0594975201688108
+"YTA7-missense_variant",10794,PKA,IRA1,Haploid,stop_gained,0.817935612381274
+"NotSequenced",10848,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"SIR4-upstream_point_variant; MIM1,tS-upstream_indel_variant; tA,-upstream_indel_variant",10851,PKA,GPB2,Haploid,stop_gained,0.322184102213735
+"NotSequenced",11056,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",11222,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"SPO74-frameshift_variant; HPA2-missense_variant; SCW10-synonymous_variant",11430,PKA,RAS2,Haploid,missense_variant,-0.00140144092762662
+"PDC6-upstream_indel_variant",11456,Diploid,Diploid,Diploid,Diploid,-0.704294373230572
+"None",11586,Diploid,Diploid,Diploid,Diploid,1.65690970238063
+"UFD4-missense_variant",11667,Diploid,Diploid,Diploid,Diploid,-0.529885345575679
+"None",11752,PKA,IRA1,Haploid,frameshift_variant,0.473517529542765
+"YFL034W-missense_variant",11933,PKA,GPB2,Haploid,frameshift_variant,0.0736635232257301
+"MHP1-synonymous_variant",12090,Diploid,Diploid,Diploid,Diploid,0.685366499707774
+"None",12752,Diploid,Diploid,Diploid,Diploid,0.124434256493513
+"NotSequenced",12757,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",12785,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",13029,Diploid,Diploid,Diploid,Diploid,-0.760910421245905
+"YER133W-A-missense_variant; FIG2-synonymous_variant; SSH1-upstream_indel_variant",13132,PKA,IRA1,Haploid,stop_gained,-0.450759167014591
+"nan-nan",13183,other,other,other,other,-0.455854057779879
+"None",13852,Diploid,Diploid,Diploid,Diploid,0.704530598656562
+"KIP2-upstream_indel_variant",13872,Diploid,Diploid,Diploid,Diploid,-0.0817895978807021
+"YNL234W-frameshift_variant; KIN1-synonymous_variant",14160,Diploid,Diploid,Diploid,Diploid,0.220404546614081
+"None",14280,PKA,GPB2,Haploid,frameshift_variant,-0.12189959417598
+"NotSequenced",14485,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.366937209692673
+"None",14849,Diploid,Diploid,Diploid,Diploid,0.474854633259302
+"NotSequenced",14888,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"EAF7-stop_gained",14915,Diploid,Diploid,Diploid,Diploid,-0.220859370858006
+"PCD1-synonymous_variant; YDL026W-upstream_point_variant",15221,PKA,IRA1,Haploid,missense_variant,1.52089009196047
+"YEL043W-missense_variant; MSK1-upstream_indel_variant; YGL036W-missense_variant",15232,PKA,IRA1,Haploid,frameshift_variant,-0.237038301177091
+"VPS3-synonymous_variant",15337,Diploid,Diploid,Diploid,Diploid,-0.156552966539294
+"tW,HIP1-upstream_indel_variant; YOL159C-missense_variant; UTP20-missense_variant; DED81-missense_variant",15787,PKA,PDE2,Haploid,missense_variant,-0.502600210102898
+"NotSequenced",15922,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",16720,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.088521777328197
+"NotSequenced",16835,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"LCP5-upstream_indel_variant; PTC3-synonymous_variant; TPS2-missense_variant",17499,other,other,other,other,0.680154739276167
+"NotSequenced",17615,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,0
+"None",17691,PKA,GPB2,Haploid,stop_gained,-0.792665043028706
+"YLR177W-missense_variant; TUL1-synonymous_variant; RNH202-stop_gained; PGM1-upstream_point_variant",17927,PKA,IRA2,Haploid,frameshift_variant,-0.625569003105709
+"KTI12-missense_variant",18152,other,other,other,other,0.0616930330531017
+"HXT8-synonymous_variant; SSD1-missense_variant",18200,PKA,IRA2,Haploid,missense_variant,-0.504925597793322
+"None",18352,Diploid,Diploid,Diploid,Diploid,0.16503024955356
+"FKS1-synonymous_variant; GEP4-upstream_indel_variant",18420,PKA,IRA1,Haploid,frameshift_variant,0.556253352034313
+"NotSequenced",18501,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.118369147595048
+"None",18860,Diploid,Diploid,Diploid,Diploid,-0.411256818191523
+"TRT2,CBT1-upstream_indel_variant; PAU19-inframe_insertion",18950,Diploid,Diploid,Diploid,Diploid,-0.485288040108197
+"RPO21-missense_variant",19184,PKA,PDE2,Haploid,frameshift_variant,-0.908325786168654
+"RGA1-synonymous_variant",19219,Diploid,Diploid,Diploid,Diploid,-0.508391863277821
+"DBP1-missense_variant",19296,PKA,IRA1,Haploid,missense_variant,-0.566935036217039
+"None",19297,Diploid,Diploid,Diploid,Diploid,-0.648503114363092
+"NotSequenced",19379,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.470240773596647
+"tV,YKL068W-A-upstream_indel_variant",19407,PKA,GPB2,Haploid,frameshift_variant,-0.0807297264863364
+"YLR162W-upstream_point_variant; RDN5-6-non_coding_transcript_exon_variant,non_coding_transcript_variant",19697,Diploid,Diploid,Diploid,Diploid,-0.773055031382951
+"SWI6-missense_variant; SRL1-synonymous_variant; MSK1-upstream_indel_variant; MRS6-missense_variant",19707,Diploid,Diploid,Diploid,Diploid,-0.00711409502247558
+"STE23-missense_variant; RRP5-upstream_point_variant",19795,Diploid,Diploid,Diploid,Diploid,0.503090948801102
+"tQ(UUG)C-upstream_indel_variant",19894,other,other,other,other,0.434900206311165
+"PEX17-missense_variant",20083,Diploid,Diploid,Diploid,Diploid,0.0276162754152779
+"NotSequenced",20231,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"APM2-upstream_indel_variant",20464,Diploid,Diploid,Diploid,Diploid,-0.58510515654497
+"NotSequenced",20596,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"YAR023C,SUP56-upstream_indel_variant",20632,other,other,other,other,-0.111990159688111
+"RER2-missense_variant",20873,PKA,IRA1,Haploid,missense_variant,-0.152130298246716
+"None",20967,PKA,PDE2,Haploid,stop_gained,-0.206530523511226
+"NotSequenced",21354,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",21440,Diploid,Diploid,Diploid,Diploid,1.07824004699301
+"NotSequenced",21529,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",21543,PKA,TOR1,Haploid,missense_variant,-0.660756191489162
+"None",21625,Diploid,Diploid,Diploid,Diploid,-0.877651575974234
+"MLH1-missense_variant",21956,PKA,IRA2,Haploid,missense_variant,0.190705740427348
+"HAP1-upstream_point_variant; SIS1-missense_variant; RPL19B-upstream_point_variant",21967,PKA,IRA1,Haploid,stop_gained,0.841506030527869
+"None",22011,Diploid,Diploid,Diploid,Diploid,-0.485534714465798
+"NotSequenced",22162,NotSequenced,NotSequenced,NotSequenced,NotSequenced,1.06959196778677
+"YMR018W-upstream_indel_variant",22360,Diploid,Diploid,Diploid,Diploid,-0.086588102966249
+"NotSequenced",22372,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.311685636357913
+"ALE1-missense_variant",22469,Diploid,Diploid,Diploid,Diploid,-0.323313590050256
+"NotSequenced",22669,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.456257389468344
+"NotSequenced",22713,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"YRR1-upstream_point_variant; ASG1-stop_gained; FYV10-upstream_indel_variant",23065,Diploid,Diploid,Diploid,Diploid,0
+"None",23688,PKA,GPB2,Haploid,stop_gained,1.50164870778532
+"NotSequenced",23712,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"YNR062C-synonymous_variant",23868,PKA,IRA1,Haploid,stop_gained,-0.380381629992237
+"NotSequenced",23882,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"nan-nan",24151,other,other,other,other,0.467735987400085
+"NotSequenced",24362,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,0
+"None",24737,PKA,KOG1,Haploid,missense_variant,-0.00423553692180637
+"NotSequenced",24758,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"LPL1-upstream_point_variant",24858,Diploid,Diploid,Diploid,Diploid,-0.159817869325937
+"None",25531,PKA,IRA1,Haploid,stop_gained,0.891859047763999
+"PPE1-missense_variant; YOX1-synonymous_variant",25747,PKA,IRA2,Haploid,missense_variant,-0.648492335169045
+"None",25780,PKA,IRA1,Haploid,missense_variant,0.650862835604856
+"None",26106,Diploid,Diploid,Diploid,Diploid,-0.0342003620326596
+"UBI4-frameshift_variant",26612,other,other,other,other,-0.869937037174724
+"NotSequenced",26885,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",27142,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",27346,Diploid,Diploid,Diploid,Diploid,-1.00864078577223
+"NUP157-missense_variant; YPR015C-missense_variant",27473,Adaptive Diploid,Diploid + Chr12Amp,Diploid,Diploid + Chr12Amp,-0.679178936974962
+"NotSequenced",27866,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",28533,Diploid,Diploid,Diploid,Diploid,0.463991802229775
+"SRP101-synonymous_variant; YER138W-A-upstream_point_variant",28740,PKA,IRA1,Haploid,frameshift_variant,-0.645606777486061
+"None",28888,Diploid,Diploid,Diploid,Diploid,-0.468600539278335
+"NotSequenced",29261,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"nan-nan",29375,other,other,other,other,0.039422646923097
+"NotSequenced",29473,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.6432631205479
+"None",29840,Diploid,Diploid,Diploid,Diploid,-0.39560004737125
+"None",30578,PKA,IRA1,Haploid,frameshift_variant,0.981714339636801
+"YBR027C-frameshift_variant",30769,Diploid,Diploid,Diploid,Diploid,-0.165228038546626
+"SEN1-upstream_point_variant",30795,Diploid,Diploid,Diploid,Diploid,-0.750926043594805
+"YOR032W-A-upstream_point_variant",31360,PKA,IRA1,Haploid,stop_gained,0.219837649920525
+"API2-upstream_point_variant; SRG1-non_coding_transcript_exon_variant,non_coding_transcript_variant; BOS1-missense_variant",31607,Diploid,Diploid,Diploid,Diploid,-0.422892643834147
+"None",32075,Diploid,Diploid,Diploid,Diploid,0.453290183310832
+"NotSequenced",32201,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.0691625666942474
+"None",32262,PKA,IRA2,Haploid,missense_variant,-0.137177039467521
+"ECM29-missense_variant",32675,Diploid,Diploid,Diploid,Diploid,-1.00433013986879
+"None",32685,Diploid,Diploid,Diploid,Diploid,-0.209240428571868
+"NotSequenced",33409,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",33617,PKA,GPB2,Haploid,frameshift_variant,-0.526761699613358
+"None",33976,Diploid,Diploid,Diploid,Diploid,0.0611039467404689
+"nan-nan",34189,other,other,other,other,-0.507750513689525
+"None",34808,Diploid,Diploid,Diploid,Diploid,-0.24086109210922
+"None",35898,Diploid,Diploid,Diploid,Diploid,0.295977336893523
+"None",37238,Diploid,Diploid,Diploid,Diploid,-0.734134173210854
+"PTR3-synonymous_variant",37241,Diploid,Diploid,Diploid,Diploid,0.456812562747845
+"NotSequenced",38775,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.235870669507966
+"NotSequenced",38970,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"RAD30-synonymous_variant",39066,other,other,other,other,-0.744654539696974
+"CDC11-upstream_indel_variant; SAC7-missense_variant; SIR4-missense_variant",39270,Diploid,Diploid,Diploid,Diploid,0.153715677917595
+"RPO41-synonymous_variant; tA,-upstream_indel_variant",39633,other,other,other,other,-0.213294412924127
+"RCF2-upstream_point_variant",39674,PKA,GPB1,Haploid,stop_gained,-0.442678917724428
+"None",40409,PKA,IRA1,Haploid,frameshift_variant,0.0984705215541645
+"None",40779,Diploid,Diploid,Diploid,Diploid,-0.687528106409048
+"USO1-upstream_indel_variant",40865,Diploid,Diploid,Diploid,Diploid,-0.29221598838671
+"None",41484,Diploid,Diploid,Diploid,Diploid,0.55301244751562
+"ATG23-missense_variant",41601,other,other,other,other,0.0689478193443454
+"NotSequenced",42040,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,7.40418512920889e-05
+"None",42331,PKA,IRA2,Haploid,stop_gained,0.087136286213446
+"ESC1-missense_variant",42575,Diploid,Diploid,Diploid,Diploid,0.658508177588102
+"YPL168W-missense_variant; YER135C,tV-upstream_indel_variant",43155,PKA,TFS1,Haploid,missense_variant,-0.910806033218449
+"YGL014C-A-upstream_indel_variant; PSY3-upstream_indel_variant",43361,PKA,IRA1,Haploid,missense_variant,0.865672121366935
+"None",43483,PKA,IRA1,Haploid,frameshift_variant,-0.38214329425734
+"None",43692,PKA,CYR1,Haploid,missense_variant,-0.383911360051608
+"NotSequenced",44777,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.483033103933158
+"SNR3-upstream_indel_variant; YBR285W-upstream_point_variant; SCW11-missense_variant",44905,Diploid,Diploid,Diploid,Diploid,-0.355443715669356
+"NotSequenced",44966,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.320700821109528
+"NotSequenced",44971,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.229951455174286
+"SUP35-missense_variant; YOR283W-missense_variant",45031,other,other,other,other,-0.257106158406194
+"SCO2-synonymous_variant",45512,other,other,other,other,-0.23037967525318
+"NotSequenced",45865,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.0774407211256955
+"NotSequenced",46200,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.874197852358477
+"None",46313,Diploid,Diploid,Diploid,Diploid,-0.160577329772611
+"NotSequenced",46892,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"DNF3-missense_variant",46938,Diploid,Diploid,Diploid,Diploid,-1.18207678337053
+"None",47877,Diploid,Diploid,Diploid,Diploid,0.0934611853059688
+"NotSequenced",48822,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.401726652077383
+"NotSequenced",48904,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.188358873792723
+"nan-nan",49174,other,other,other,other,-0.0438483294915449
+"NotSequenced",50212,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",50232,Diploid,Diploid,Diploid,Diploid,-0.107759220661996
+"PDC2-missense_variant; FHN1-upstream_point_variant",50286,Diploid,Diploid,Diploid,Diploid,-0.174708664186587
+"None",50878,Diploid,Diploid,Diploid,Diploid,-0.371350172677517
+"NotSequenced",50880,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.178824241647805
+"None",51200,Diploid,Diploid,Diploid,Diploid,-0.0786011743582734
+"NotSequenced",51455,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.345322079222128
+"VMA6-upstream_point_variant; DSD1-missense_variant",52221,Diploid,Diploid,Diploid,Diploid,0.375520224087041
+"DTD1-upstream_point_variant",52560,Diploid,Diploid,Diploid,Diploid,-0.0378824456206677
+"ATG17-upstream_point_variant",53054,other,other,other,other,-0.23485897609318
+"NotSequenced",53230,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.497892194285761
+"YAP1802-upstream_point_variant; FIR1-missense_variant",54461,other,other,other,other,-0.365093983886804
+"None",55340,Diploid,Diploid,Diploid,Diploid,-1.07269692861834
+"None",55577,Diploid,Diploid,Diploid,Diploid,0.0742762749960522
+"None",55847,Diploid,Diploid,Diploid,Diploid,-0.787078245533955
+"NotSequenced",56993,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",57117,PKA,IRA1,Haploid,stop_gained,-0.252539740961554
+"None",57408,Diploid,Diploid,Diploid,Diploid,0.0161494510019723
+"NotSequenced",57887,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"nan-nan",58107,other,other,other,other,-0.188445717948817
+"None",58189,Diploid,Diploid,Diploid,Diploid,-0.359447895275836
+"NFI1-synonymous_variant",58400,Diploid,Diploid,Diploid,Diploid,-0.574701106725624
+"NotSequenced",59345,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.508391129735617
+"SNF2-synonymous_variant",59822,Diploid,Diploid,Diploid,Diploid,-0.540418439179988
+"NAM9-upstream_point_variant; ERG1-missense_variant",59999,Diploid,Diploid,Diploid,Diploid,-0.29687933811581
+"tQ,-upstream_indel_variant; YMR295C-upstream_point_variant",60333,other,other,other,other,-0.727618264224928
+"nan-nan",60549,other,other,other,other,-0.413454854647269
+"SSK2-stop_gained",60700,other,other,other,other,-0.968301779908585
+"None",60959,Diploid,Diploid,Diploid,Diploid,-0.113209374888051
+"None",60973,Diploid,Diploid,Diploid,Diploid,0.376967255901907
+"TRM13-upstream_point_variant",61570,Diploid,Diploid,Diploid,Diploid,-0.325983613402313
+"CDC34-synonymous_variant",62344,Diploid,Diploid,Diploid,Diploid,-0.27893399602534
+"ATH1-frameshift_variant; GIS1-upstream_indel_variant",62701,Diploid,Diploid,Diploid,Diploid,-0.4199349603684
+"MET4-stop_gained",63215,PKA,GPB2,Haploid,stop_gained,-0.484097587526983
+"SKG6-missense_variant",63382,Diploid,Diploid,Diploid,Diploid,0.966009916183421
+"NotSequenced",63891,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",64115,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.0278350219353302
+"SEN1-missense_variant; tV,YKL068W-A-upstream_indel_variant",64731,other,other,other,other,-0.353744266293722
+"GUT2-missense_variant; tE(UUC)C-upstream_indel_variant",65196,Diploid,Diploid,Diploid,Diploid,-0.407961716847984
+"MSH3-synonymous_variant",65266,Diploid,Diploid,Diploid,Diploid,-0.675768750698432
+"None",65692,Diploid,Diploid,Diploid,Diploid,-0.0535491572867666
+"None",65819,PKA,IRA1,Haploid,missense_variant,0.555467088974766
+"NotSequenced",66652,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.0605880079561082
+"None",67711,Diploid,Diploid,Diploid,Diploid,-0.555925110484797
+"PRP5-upstream_point_variant",68197,Diploid,Diploid,Diploid,Diploid,-0.326063017742457
+"None",69575,Diploid,Diploid,Diploid,Diploid,-0.659475320796165
+"NotSequenced",69928,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.422176162165632
+"RPR1-non_coding_transcript_exon_variant,non_coding_transcript_variant",70033,other,other,other,other,-0.284908712195627
+"VRG4-upstream_indel_variant; FIT1-frameshift_variant",70408,other,other,other,other,-0.411768659919024
+"tE(UUC)C-upstream_indel_variant; YIL071W-A-missense_variant; APM2-upstream_indel_variant",70433,PKA,PDE2,Haploid,frameshift_variant,-0.357498426008636
+"PSY3-upstream_indel_variant; YLR345W-stop_gained",70812,Diploid,Diploid,Diploid,Diploid,0.775725639174577
+"UBP5-upstream_point_variant; SCL1-missense_variant",70982,Diploid,Diploid,Diploid,Diploid,-0.0845735749123164
+"None",71109,Adaptive Diploid,Diploid + Chr11Amp,Diploid,Diploid + Chr11Amp,0.0430776348952453
+"MGM101-missense_variant",71696,Diploid,Diploid,Diploid,Diploid,-0.536949243275266
+"PMC1-missense_variant",71751,Adaptive Diploid,Diploid + Chr11Amp,Diploid,Diploid + Chr11Amp,0.776992026484745
+"NotSequenced",71926,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,0.129268061811447
+"MIG3-frameshift_variant; SEC8-missense_variant",72008,other,other,other,other,0.702191777396226
+"HSP42-upstream_point_variant",72395,other,other,other,other,-0.932753985859575
+"None",72591,Diploid,Diploid,Diploid,Diploid,-0.203666593626111
+"NotSequenced",72939,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,-0.0303828529178713
+"NotSequenced",73802,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,-0.282451517520524
+"NUT2-upstream_indel_variant; HXT2-missense_variant; tE(UUC)C-upstream_indel_variant",73881,Diploid,Diploid,Diploid,Diploid,0.694177194681748
+"TRM44-missense_variant; PSA1-upstream_point_variant",74033,Diploid,Diploid,Diploid,Diploid,0.0476227188221367
+"YRO2-upstream_point_variant; MZM1-missense_variant; SUF1,-upstream_indel_variant",74280,other,other,other,other,0.315922052686398
+"SRB4-missense_variant",75144,Diploid,Diploid,Diploid,Diploid,-0.514223965451545
+"None",75669,PKA,GPB1,Haploid,stop_gained,0.736305994816213
+"SCC2-missense_variant; YPK9-synonymous_variant; EFM3-missense_variant",75841,Diploid,Diploid,Diploid,Diploid,-0.966101393033751
+"None",76616,Diploid,Diploid,Diploid,Diploid,0.198854644217328
+"FUN12-missense_variant; RPL11B-upstream_indel_variant",77609,other,other,other,other,-0.225718416801295
+"NotSequenced",77824,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.976436104104669
+"GAL1-synonymous_variant; ATG32-upstream_indel_variant; SIR4-missense_variant",78232,Diploid,Diploid,Diploid,Diploid,-0.330936967761309
+"FAR3-frameshift_variant; PFK27-upstream_point_variant; GUP1-upstream_point_variant; TRK2-missense_variant; YNL033W-upstream_point_variant",78573,Diploid,Diploid,Diploid,Diploid,-0.369221772459559
+"DON1-missense_variant; SPO1-frameshift_variant; RAD16-missense_variant",79953,other,other,other,other,-0.234400496309785
+"RBG1-missense_variant; NAR1-missense_variant",81798,Diploid,Diploid,Diploid,Diploid,0.463401060895859
+"VPS36-upstream_indel_variant",82806,Diploid,Diploid,Diploid,Diploid,-0.43791096613943
+"NotSequenced",83255,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.0365204831410003
+"None",83504,Diploid,Diploid,Diploid,Diploid,-0.231049298131199
+"None",83967,Diploid,Diploid,Diploid,Diploid,-0.618185759728347
+"None",84597,Diploid,Diploid,Diploid,Diploid,-0.736828474789792
+"nan-nan",84997,other,other,other,other,-0.552145625573149
+"NotSequenced",85702,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",85751,Diploid,Diploid,Diploid,Diploid,0.109357887880586
+"ZRG17-missense_variant; UTR2-upstream_point_variant; RSN1-frameshift_variant",87689,Diploid,Diploid,Diploid,Diploid,-0.419168618743735
+"SLX5-frameshift_variant; NCL1-upstream_point_variant",88494,other,other,other,other,-0.476056408198795
+"BRR2-missense_variant; GDE1-missense_variant; GIS1-upstream_indel_variant",88706,Diploid,Diploid,Diploid,Diploid,0.346009677021393
+"None",89848,Diploid,Diploid,Diploid,Diploid,0.249126488421793
+"SLX1-missense_variant",90003,Diploid,Diploid,Diploid,Diploid,-0.666320308605779
+"NotSequenced",90234,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",91807,Diploid,Diploid,Diploid,Diploid,-0.678346854851438
+"NotSequenced",93581,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",94393,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.164323785981736
+"NotSequenced",96078,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"nan-nan",99005,other,other,other,other,-0.876049618639826
+"None",99035,Diploid,Diploid,Diploid,Diploid,0.0723442349643956
+"NotSequenced",100501,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.657600440143988
+"MUP1-missense_variant",100895,Diploid,Diploid,Diploid,Diploid,-0.43358455119338
+"None",101051,Diploid,Diploid,Diploid,Diploid,0.0497725651342425
+"None",101506,Diploid,Diploid,Diploid,Diploid,0.581358054467107
+"NotSequenced",104216,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.410885267993316
+"TPT1-missense_variant",104261,Diploid,Diploid,Diploid,Diploid,0.791709214920474
+"TMN2-missense_variant",104349,other,other,other,other,0.73292068480749
+"nan-nan",105497,other,other,other,other,-0.370118249726921
+"NotSequenced",106257,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"YGR164W-frameshift_variant",107286,other,other,other,other,-0.0385585780128532
+"YHR145C-frameshift_variant",107751,other,other,other,other,-1.09214374997258
+"NotSequenced",107859,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.387862265527952
+"nan-nan",107971,other,other,other,other,-0.265076277721189
+"NotSequenced",109476,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,-1.24220817154141
+"YKR104W-synonymous_variant",110443,Diploid,Diploid,Diploid,Diploid,-0.427124518420223
+"None",111905,Diploid,Diploid,Diploid,Diploid,1.38334247597144
+"None",112239,Diploid,Diploid,Diploid,Diploid,-0.169912489866258
+"MPC3-missense_variant",112427,other,other,other,other,0.13408518975701
+"None",113468,Diploid,Diploid,Diploid,Diploid,-0.489544877053801
+"NotSequenced",113483,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,-0.617424827238039
+"HBS1-missense_variant",113978,Diploid,Diploid,Diploid,Diploid,0.285520962043459
+"NotSequenced",114268,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"tE(CUC)I-non_coding_transcript_exon_variant,non_coding_transcript_variant; YKL177W-upstream_point_variant; CIN5-missense_variant",114628,Diploid,Diploid,Diploid,Diploid,-0.853220464317903
+"TRM13-missense_variant; RDH54-frameshift_variant; ATG32-upstream_indel_variant; RRI2-upstream_point_variant; YOL118C-frameshift_variant",115150,Diploid,Diploid,Diploid,Diploid,-0.0353044289385401
+"None",116916,Diploid,Diploid,Diploid,Diploid,-0.713650835106713
+"TOS1-upstream_point_variant; YGR210C-missense_variant",117630,other,other,other,other,-0.712121317698781
+"IKI3-synonymous_variant; YNR063W-upstream_point_variant",117631,Diploid,Diploid,Diploid,Diploid,-0.477438685567845
+"MDH2-upstream_point_variant",118509,Diploid,Diploid,Diploid,Diploid,0.399506668227612
+"GLN4-synonymous_variant",118921,Diploid,Diploid,Diploid,Diploid,-0.31672099284876
+"nan-nan",119403,other,other,other,other,-0.723314156890467
+"nan-upstream_indel_variant",120600,ExpNeutral,other,other,other,-0.330756143374736
+"None",120939,Diploid,Diploid,Diploid,Diploid,-0.653901880397283
+"FKS1-missense_variant; YPL257W-upstream_point_variant; SUP5-upstream_indel_variant",121650,other,other,other,other,1.02569228929788
+"NNF2-upstream_point_variant",121806,PKA,GPB2,Haploid,stop_gained,-0.578780974441848
+"UTP15-missense_variant",121915,Diploid,Diploid,Diploid,Diploid,-0.298741913241329
+"YLR326W-missense_variant; YLR157W-D-frameshift_variant",122137,Diploid,Diploid,Diploid,Diploid,0.652325853446116
+"YIL169C-missense_variant",122302,other,other,other,other,-0.765249923523843
+"NotSequenced",124210,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.460566996478502
+"NotSequenced",128188,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.106094840143297
+"RPS11B-intron_variant; FAR11-missense_variant",129569,Diploid,Diploid,Diploid,Diploid,0.146236753267039
+"ZEO1-synonymous_variant",132735,Diploid,Diploid,Diploid,Diploid,0.0731421276920401
+"PES4-frameshift_variant",132805,other,other,other,other,-0.261245850800895
+"NotSequenced",134179,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",134852,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,-0.679380876221602
+"NotSequenced",134867,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.516129056538973
+"YEL067C-upstream_point_variant",134904,Diploid,Diploid,Diploid,Diploid,0.277553639983085
+"BEM2-stop_gained",135117,Diploid,Diploid,Diploid,Diploid,-0.980414201027765
+"YBR027C-frameshift_variant",135215,Diploid,Diploid,Diploid,Diploid,-0.391484428131415
+"SUP7-upstream_indel_variant",142054,other,other,other,other,-0.441702188972865
+"NDC80-synonymous_variant",142144,Diploid,Diploid,Diploid,Diploid,0.00411802237852964
+"ARR2-upstream_point_variant",142859,Diploid,Diploid,Diploid,Diploid,0.389801961508222
+"FYV10-upstream_indel_variant",143026,other,other,other,other,1.19974792763419
+"SSB2-synonymous_variant",143344,other,other,other,other,2.46894187239734
+"None",144535,Diploid,Diploid,Diploid,Diploid,-0.533910432417125
+"NotSequenced",144969,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.615743091630606
+"None",145113,Diploid,Diploid,Diploid,Diploid,-0.607287681958129
+"BMT2-upstream_point_variant; SEC61-missense_variant",147119,Diploid,Diploid,Diploid,Diploid,-0.215521369101989
+"None",148821,Diploid,Diploid,Diploid,Diploid,0.00815291233080361
+"None",149824,Diploid,Diploid,Diploid,Diploid,-0.905521599150319
+"NotSequenced",151158,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"nan-nan",151541,other,other,other,other,0.661935745580941
+"tL(UAA)K-upstream_point_variant; tI,YLR232W-upstream_indel_variant",152081,Diploid,Diploid,Diploid,Diploid,0.476740854989816
+"WSC3-missense_variant",152501,Diploid,Diploid,Diploid,Diploid,-0.574936722484156
+"NotSequenced",153016,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",154660,Diploid,Diploid,Diploid,Diploid,0.514011810789585
+"tI,YNL034W-upstream_indel_variant; PMT1-synonymous_variant",159038,Diploid,Diploid,Diploid,Diploid,-0.443143389669302
+"YKR012C-upstream_indel_variant; FRS2-upstream_point_variant; POM152-stop_gained",159633,Diploid,Diploid,Diploid,Diploid,0.335768998859491
+"YJL045W-missense_variant",161840,Diploid,Diploid,Diploid,Diploid,-0.21243629288657
+"VPS13-missense_variant; SUF17-upstream_point_variant",163510,Diploid,Diploid,Diploid,Diploid,0.405945065509777
+"MET32-upstream_point_variant",164130,Diploid,Diploid,Diploid,Diploid,-0.409034376346387
+"YEF3-missense_variant; YGR053C-upstream_point_variant; NCL1-upstream_point_variant; SFG1-missense_variant; tE(UUC)C-upstream_indel_variant",164627,other,other,other,other,-0.411838734802084
+"FAT3-missense_variant; TUB2-missense_variant",170554,Diploid,Diploid,Diploid,Diploid,-0.371309437767925
+"FRT1-missense_variant",170814,Diploid,Diploid,Diploid,Diploid,0.374395224865741
+"CYC3-upstream_point_variant; PST2-upstream_point_variant",171083,other,other,other,other,-0.693549041742523
+"NotSequenced",175091,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.65340968187327
+"BRO1-stop_gained",176764,Diploid,Diploid,Diploid,Diploid,-0.299396764066451
+"EAR1-missense_variant",178096,Diploid,Diploid,Diploid,Diploid,-0.445086982809924
+"TRM11-missense_variant",179100,PKA,PDE2,Haploid,frameshift_variant,-0.85495391589556
+"None",179213,Diploid,Diploid,Diploid,Diploid,0.949276497722523
+"RPS25B-upstream_point_variant",180905,Diploid,Diploid,Diploid,Diploid,0.40077542010107
+"NotSequenced",183570,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.319503717378795
+"NotSequenced",187133,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.753537504501156
+"None",187691,Diploid,Diploid,Diploid,Diploid,1.85632781349552
+"None",189102,Diploid,Diploid,Diploid,Diploid,-0.776728177462628
+"None",191298,PKA,IRA1,Haploid,upstream_point_variant,-0.569404417489031
+"NotSequenced",192852,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.429060023824075
+"NotSequenced",193269,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.23412544786798
+"None",194622,Diploid,Diploid,Diploid,Diploid,-0.338812733634754
+"RML2-upstream_point_variant; VRG4-upstream_indel_variant",195473,other,other,other,other,-0.239946831676493
+"RTT102-missense_variant; PBP1-missense_variant; HSX1-upstream_indel_variant",195887,other,other,other,other,-0.0339317245235075
+"PSP1-synonymous_variant; YDR134C-upstream_indel_variant",197765,Diploid,Diploid,Diploid,Diploid,-0.797492621503016
+"DSD1-missense_variant",198950,Diploid,Diploid,Diploid,Diploid,-0.715233000231636
+"None",200512,Diploid,Diploid,Diploid,Diploid,-0.0883880466596658
+"DOG1-upstream_point_variant; LOT5-upstream_point_variant",201777,Diploid,Diploid,Diploid,Diploid,-0.362250518351354
+"NotSequenced",201919,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.123780269854947
+"None",202468,Diploid,Diploid,Diploid,Diploid,0.203437832710454
+"nan-nan",205157,other,other,other,other,0.24890360986336
+"None",206713,Diploid,Diploid,Diploid,Diploid,-0.110031778381557
+"YGR174W-A-upstream_point_variant; INP53-missense_variant",207058,Diploid,Diploid,Diploid,Diploid,0.314921218682429
+"NotSequenced",207732,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"CHS3-missense_variant",208465,other,other,other,other,-0.13429144792803
+"NotSequenced",208839,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"YLR419W-missense_variant",210734,Diploid,Diploid,Diploid,Diploid,1.09344460109358
+"POP1-missense_variant; FUN19-frameshift_variant",211106,Diploid,Diploid,Diploid,Diploid,-0.53028160022628
+"None",214211,Diploid,Diploid,Diploid,Diploid,0.145897082377071
+"NotSequenced",215309,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.400230828576128
+"None",215325,Diploid,Diploid,Diploid,Diploid,-0.481927871098789
+"tL-upstream_indel_variant; HOM6-upstream_point_variant; DFM1-synonymous_variant; tA,MRPL3-upstream_indel_variant",217798,PKA,GPB1,Haploid,missense_variant,-0.132292311470793
+"None",225065,Diploid,Diploid,Diploid,Diploid,-0.430163232017052
+"IES3-missense_variant; tV,YKL068W-A-upstream_indel_variant; SEC4-synonymous_variant; LAA1-synonymous_variant",225103,other,other,other,other,-0.934280508375695
+"NotSequenced",225923,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.472609171666941
+"NotSequenced",226111,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",227000,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"tR,-upstream_indel_variant; FOX2-frameshift_variant",229920,PKA,CYR1,Haploid,missense_variant,0.318197925547502
+"nan-nan",230962,other,other,other,other,-0.445031349660158
+"NotSequenced",231364,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",232264,Diploid,Diploid,Diploid,Diploid,-0.460210593276986
+"NotSequenced",233954,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",237576,Diploid,Diploid,Diploid,Diploid,-0.732670344358799
+"nan-nan",238413,other,other,other,other,-0.0512208390272212
+"nan-nan",239769,other,other,other,other,-0.276179497315321
+"YLL066W-B-frameshift_variant",241857,other,other,other,other,-0.530478363691974
+"None",244443,Diploid,Diploid,Diploid,Diploid,0.172452633518898
+"NotSequenced",246829,NotSequenced,NotSequenced,NotSequenced,NotSequenced,1.70068637407137
+"FYV10-upstream_indel_variant",247616,other,other,other,other,0.292251246641006
+"NotSequenced",248136,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",251379,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.617005474390434
+"TCB2-upstream_point_variant; SUP51,CYR1-upstream_indel_variant; DMA1-frameshift_variant; LEU4-missense_variant; BAT1-upstream_point_variant",254044,other,other,other,other,0.829955981223198
+"NotSequenced",255385,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"FIG4-missense_variant; CNA1-missense_variant",258539,Diploid,Diploid,Diploid,Diploid,-0.608943804994342
+"None",261861,Diploid,Diploid,Diploid,Diploid,-0.5349520822583
+"POP4-upstream_point_variant; FPK1-frameshift_variant",262917,other,other,other,other,-0.572620871085207
+"NotSequenced",263665,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,0
+"None",266802,Diploid,Diploid,Diploid,Diploid,-0.681533558545883
+"nan-nan",270104,other,other,other,other,-0.3714621877197
+"PYC1-synonymous_variant; NMD3-synonymous_variant; SNZ3-missense_variant",273092,Diploid,Diploid,Diploid,Diploid,0.862727701075443
+"nan-nan",276407,other,other,other,other,-0.263180103663449
+"MSK1-upstream_indel_variant",277185,other,other,other,other,0.377899192704695
+"NotSequenced",278476,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.182312531638864
+"NotSequenced",283952,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.141971342873449
+"nan-nan",287352,other,other,other,other,0.0879573853923501
+"ADP1-missense_variant",294706,other,other,other,other,-0.217109203786247
+"NotSequenced",294994,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"MSK1-upstream_indel_variant",295458,Diploid,Diploid,Diploid,Diploid,0.00715616667570405
+"NotSequenced",295730,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",296771,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.722983363379372
+"MSH5-missense_variant; PEP3-missense_variant; VHC1-synonymous_variant",297322,Diploid,Diploid,Diploid,Diploid,0.0678850534427689
+"FYV10-upstream_indel_variant; YKL177W-upstream_point_variant",298344,ExpNeutral,other,other,other,0.414248583095083
+"MTC5-upstream_point_variant; SNR6-non_coding_transcript_exon_variant,non_coding_transcript_variant",303501,other,other,other,other,-0.170741879790949
+"PAU16-upstream_point_variant; BEM2-missense_variant; YOL014W-missense_variant",304483,other,other,other,other,-0.406870655763898
+"NotSequenced",304935,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.609592357973077
+"NotSequenced",309605,NotSequenced,NotSequenced,NotSequenced,NotSequenced,1.18089523503508
+"VRG4-upstream_indel_variant",309655,PKA,PDE2,Haploid,frameshift_variant,0.972303031691699
+"None",310209,Diploid,Diploid,Diploid,Diploid,-0.736071107915873
+"PET127-upstream_point_variant; SUP61-upstream_indel_variant",316048,other,other,other,other,-0.535233430021256
+"NotSequenced",316954,ExpNeutral,NotSequenced,NotSequenced,NotSequenced,-0.694948412077283
+"FCF1-upstream_point_variant",317672,Diploid,Diploid,Diploid,Diploid,-0.820095371516832
+"NotSequenced",319196,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.213206321010388
+"RKM3-upstream_point_variant",328579,Diploid,Diploid,Diploid,Diploid,0.0941549321112533
+"IRC5-synonymous_variant",329774,Diploid,Diploid,Diploid,Diploid,-0.436981436472222
+"nan-nan",330943,other,other,other,other,-0.30171398352965
+"NotSequenced",331012,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",332232,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"FAR3-frameshift_variant",334616,other,other,other,other,-0.155576232031765
+"RET1-synonymous_variant; SUL1-upstream_point_variant; tR,YDR089W-upstream_indel_variant",336972,PKA,SCH9,Haploid,missense_variant,0.333472953816146
+"YPL205C-frameshift_variant; APM2-upstream_indel_variant",338908,Diploid,Diploid,Diploid,Diploid,-0.427373908457956
+"NotSequenced",340123,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.577327419710789
+"NotSequenced",341234,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.749815633195905
+"NotSequenced",345698,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",349198,NotSequenced,NotSequenced,NotSequenced,NotSequenced,-0.0875896141280857
+"NotSequenced",349927,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0.182400864463807
+"YEL023C-upstream_point_variant",352078,other,other,other,other,-0.0656495567530987
+"nan-nan",352705,other,other,other,other,0.0217983222488284
+"NotSequenced",361412,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",365129,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"YBL006W-A-upstream_indel_variant",371306,other,other,other,other,-0.433311766951434
+"DAD3-synonymous_variant",375115,Diploid,Diploid,Diploid,Diploid,1.06807627587583
+"RCM1-stop_gained",378857,Diploid,Diploid,Diploid,Diploid,0.174250832986328
+"HCA4-synonymous_variant; YNL097W-A-missense_variant",379777,PKA,IRA2,Haploid,missense_variant,0.283590394955778
+"nan-nan",381707,other,other,other,other,-0.573777916968372
+"NotSequenced",387733,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",392361,Diploid,Diploid,Diploid,Diploid,0.474791461318229
+"NotSequenced",400133,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",411793,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",414033,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",414373,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",417393,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"nan-nan",419648,other,other,other,other,0.596541007998463
+"IST1-upstream_point_variant; UBA3-missense_variant",419831,Diploid,Diploid,Diploid,Diploid,0.11788723661743
+"AST2-synonymous_variant; RDH54-upstream_point_variant",425471,Diploid,Diploid,Diploid,Diploid,0.169931039864096
+"NotSequenced",427035,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"nan-nan",430247,other,other,other,other,0.921643576533169
+"NotSequenced",433489,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",434397,Diploid,Diploid,Diploid,Diploid,-0.423223223589163
+"NotSequenced",454012,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"CDC11-upstream_indel_variant; PCA1-synonymous_variant; TRP5-missense_variant; YDL211C,tG-upstream_indel_variant",454851,other,other,other,other,-0.144285091092513
+"NotSequenced",465343,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",467348,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",469646,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",480412,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",481885,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",488655,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",490448,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"NotSequenced",7777777,NotSequenced,NotSequenced,NotSequenced,NotSequenced,0
+"None",9000001,PKA,IRA1,Haploid,missense,0
+"None",9000002,PKA,IRA1,Haploid,missense,0
+"None",9000003,PKA,IRA1,Haploid,missense,0
+"None",9000005,PKA,IRA1,Haploid,missense,0
+"None",9000006,PKA,IRA1,Haploid,missense,0
+"None",9000007,PKA,IRA1,Haploid,missense,0
+"None",9000008,PKA,IRA1,Haploid,missense,0
+"None",9000009,PKA,IRA1,Haploid,missense,0
+"None",9000010,PKA,IRA1,Haploid,missense,0
+"None",9000101,PKA,IRA1,Haploid,stop_gained,0
+"None",9000103,PKA,IRA1,Haploid,stop_gained,0
+"None",9000104,PKA,IRA1,Haploid,stop_gained,0
+"None",9000105,PKA,IRA1,Haploid,stop_gained,0
+"None",9000106,PKA,IRA1,Haploid,stop_gained,0
+"None",9000107,PKA,IRA1,Haploid,stop_gained,0
+"None",9000108,PKA,IRA1,Haploid,stop_gained,0
+"None",9000109,PKA,IRA1,Haploid,stop_gained,0
+"None",9000110,PKA,IRA1,Haploid,stop_gained,0
