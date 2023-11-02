@@ -5,9 +5,9 @@ by correcting barcode processing biases._ bioRxiv (2023).
 
 ## Code
 
-`bias_correction.py` contains a python module implementing our barcode bias correction method.
+`bias_correction.py` is a python module that implements our barcode bias correction method.
 
-You can run this bias correction method using the command line or as part of your own python scripts, as seen in the examples below and in the [case study analysis notebook](https://github.com/ryansmcgee/barcode-bias/blob/main/case-study/step1_run-bias-correction.ipynb).
+You can run this bias correction method using the command line or as part of your own python scripts, as seen in the brief examples below and in the [case study analysis notebook](https://github.com/ryansmcgee/barcode-bias/blob/main/case-study/step1_run-bias-correction.ipynb).
 
 Further documentation about code usage is forthcoming. Questions regarding this code can be directed to ryansmcgee@gmail.com.
 
