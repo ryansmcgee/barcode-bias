@@ -1,7 +1,10 @@
 # barcode-bias
 
-Code and data accompanying McGee et al. _Improving the accuracy of bulk fitness assays
-by correcting barcode processing biases._ bioRxiv (2023).
+Code and data accompanying the preprint: 
+
+**Improving the accuracy of bulk fitness assays by correcting barcode processing biases.**  
+Ryan Seamus McGee, Grant Kinsler, Dmitri Petrov, Mikhail Tikhonov.  
+bioRxiv 2023.10.31.565047; doi: https://doi.org/10.1101/2023.10.31.565047
 
 ## Code
 
